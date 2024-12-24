@@ -66,10 +66,6 @@ Developed by: RegisterNumber:24009014
 
 ![serial in out timing](https://github.com/user-attachments/assets/e6fbf448-2220-4a53-bb3d-24d902bc46d1)
 
-**LOGIC DIAGRAM**
-
-![synchronus truth table](https://github.com/user-attachments/assets/19f99112-4662-4edb-90e3-2c6036c18684)
-
 
 **RESULTS**
-Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams
+Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams.
